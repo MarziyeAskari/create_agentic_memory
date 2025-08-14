@@ -28,12 +28,3 @@ Agentic Memory is a Python-based chatbot framework that integrates **OpenAI func
 
 ---
 
-## **Project Structure**
-agentic_memory/
-│
-├── agent.py # Main chatbot logic
-├── .env # Environment variables (contains OpenAI API key)
-├── README.md # Project documentation
-└── requirements.txt # Dependencies
-
-
